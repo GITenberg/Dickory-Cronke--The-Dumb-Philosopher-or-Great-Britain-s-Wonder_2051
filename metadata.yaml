@@ -1,0 +1,31 @@
+_repo: Dickory-Cronke--The-Dumb-Philosopher-or-Great-Britain-s-Wonder_2051
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Moreton, Andrew
+    - John, Gabriel
+    - Defo, Daniel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+description: ''
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophers -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Dickory Cronke: The Dumb Philosopher, or, Great Britain''s Wonder'
+url: http://www.gutenberg.org/ebooks/2051
